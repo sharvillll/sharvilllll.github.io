@@ -1,0 +1,39 @@
+h1{
+	text-align: center;
+	color: white;
+}
+body{
+	background-image: url(54ba1aebeb5c5c92105f430009db074c.jpg);
+	size: 100px; 
+}
+.boxed {
+  border: 10px solid yellow ;
+  width: 1905px;
+  height: 500px;
+  border-radius: 5px
+}
+h2 {
+	color: #00B1D2FF;
+	font-family: 'Odibee Sans', cursive;
+	
+}
+.container {
+  height: 200px;
+  position: relative;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+section {
+	background-image: url(54ba1aebeb5c5c92105f430009db074c.jpg);
+	border-bottom: 5px;
+	border-color: solid pink;
+}
+label{
+	color: #00B1D2FF;
+}
